@@ -1,4 +1,4 @@
-module andgate ( a ,b ,y );
+module andgateg ( a ,b ,y );
 
 input a ;
 wire a ;
