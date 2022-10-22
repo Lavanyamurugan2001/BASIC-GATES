@@ -1,4 +1,4 @@
-module orgate ( a ,b ,y );
+module orgatee ( a ,b ,y );
 
 input a ;
 wire a ;
