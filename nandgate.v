@@ -1,4 +1,4 @@
-module nandgate ( a ,b ,y );
+module nandgatee ( a ,b ,y );
 
 input a ;
 wire a ;
