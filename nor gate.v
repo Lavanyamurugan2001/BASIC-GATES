@@ -1,4 +1,4 @@
-module norgate ( a ,b ,y );
+module norgatee ( a ,b ,y );
 
 input a ;
 wire a ;
